@@ -64,7 +64,7 @@ The section contains information on installing necessary softwares and libraries
 ### Setup OMS APIs <a name="subpara31"></a>
 To access the OMS API we need a client id and secret key which has to be obtained via the procedure given on these [slides](https://indico.cern.ch/event/997758/contributions/4191705/attachments/2173881/3670409/OMS%20CERN%20OpenID%20migration%20-%20update.pdf). Page 4-6 are relevent for our use case. 
 
-- (Note) While filling the registration form, in section Redirect URI you can fill any arbitrary url since we use the API from SWAN (See below)
+- (Note) While filling the registration form on [link](https://application-portal.web.cern.ch/), in section Redirect URI you can fill any arbitrary url since we use the API from SWAN (See below)
 
 # Analysis on SWAN <a name="paragraph4"></a>
 We use [SWAN](https://swan004.cern.ch/hub/spawn) - A platform to perform interactive data analysis on the cloud. 
